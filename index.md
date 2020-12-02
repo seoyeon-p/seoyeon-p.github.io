@@ -9,6 +9,6 @@ Hi! My name is Seoyeon Park, and I'm Ph.D. student in Computer Science at the Un
 ## Publication
 <a href="https://www.aclweb.org/anthology/2020.coling-main.472/">Scientific Keyphrase Identification and Classification by Pre-Trained Language Models Intermediate Task Transfer Learning</a>, <b>Seoyeon Park</b>, and Cornelia Caragea
 
-<a href="https://www.semanticscholar.org/paper/Sympathy-Detection-in-Disaster-Twitter-Data-Li-Park/01067ea86878f96ac9d8c0d4c7d89e2f93ae3f2d"> Sympathy Detection in Disaster Twitter Data, Yingjie Li, <b>Seo Yeon Park</b>, Cornelia Caragea, Doina Caragea, and Andrea Tapia. 
+<a href="https://www.semanticscholar.org/paper/Sympathy-Detection-in-Disaster-Twitter-Data-Li-Park/01067ea86878f96ac9d8c0d4c7d89e2f93ae3f2d"> Sympathy Detection in Disaster Twitter Data</a>, Yingjie Li, <b>Seo Yeon Park</b>, Cornelia Caragea, Doina Caragea, and Andrea Tapia. 
 
 
